@@ -6,4 +6,6 @@ A primeira da forma mais pura possível, definindo width’s e height’s, a seg
 a terceira com o Flexbox e por último usando o Bootstrap.
 
 
-Primeiro Projeto Prático Brafé 1 Puro
+Projeto prático Brafé 1 puro feito em css puro pelo site [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
+
+## Link do Projeto: [Brafé 1 puro](https://marcelo-rafael.github.io/flexblog/)
