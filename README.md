@@ -21,9 +21,6 @@
 
 ## 💻 Sobre o projeto
 
-Clone de UI do Github responsivo para fins de estudo
-
-
 Projeto desenvolvido durante a curso de  CSS Avançado posicionamento
 oferecido por [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
 
