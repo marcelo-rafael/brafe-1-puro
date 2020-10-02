@@ -86,8 +86,3 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
 
----
-
-##  Versões do README
-
-[Português 🇧🇷](./README.md)  |  [English 🇺🇸](./README-en.md)
