@@ -21,7 +21,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto desenvolvido durante a curso de  CSS Avançado posicionamento
+Projeto prático Brafé 1 puro feito com css puro durante a curso de  CSS Avançado posicionamento
 oferecido por [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
 
 ---
