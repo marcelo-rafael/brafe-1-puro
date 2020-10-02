@@ -31,7 +31,7 @@ oferecido por [Origamid](https://www.origamid.com/curso/css-avancado-posicioname
 
 Este projeto é feito em uma parte:
 
-1. Frontend (css_avancado_posicionamento folder)
+1. Frontend (brafe-1-puro folder)
 
 
 #### 🧭 Rodando a aplicação web
@@ -42,7 +42,7 @@ Este projeto é feito em uma parte:
 $ git clone https://github.com/marcelo-rafael/brafe-1-puro
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd css_avancado_posicionamento
+$ cd brafe-1-puro
 
 
 ```
